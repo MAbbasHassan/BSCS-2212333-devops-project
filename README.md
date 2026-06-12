@@ -93,3 +93,12 @@ pytest app/tests/ -v
 ---
 
 *DevOps Fundamentals — Instructor: Afaq Ahmed*
+
+## Project Features
+
+- FastAPI
+- PostgreSQL
+- Docker
+- Docker Compose
+- GitHub Actions CI/CD
+- AWS EC2 Deployment
