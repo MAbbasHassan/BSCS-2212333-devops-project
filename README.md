@@ -56,6 +56,12 @@ FastAPI    PostgreSQL
 
 # API Endpoints
 
+## API Documentation
+
+Swagger UI is available at:
+
+http://16.171.152.63:8000/docs
+
 ## GET /health
 
 Returns application health and database status.
